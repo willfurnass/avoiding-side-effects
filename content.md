@@ -1,3 +1,8 @@
+class: inverse
+layout: true
+---
+class: center, middle
+
 # Avoiding ‘side effects’:
 
 ## Writing functions that are easier to test
@@ -8,7 +13,9 @@ Will Furnass
 Research Software Engineer
 RSE team
 
+class: middle
 ---
+
 ## A linear workflow
 
 ```python
@@ -58,8 +65,10 @@ write_data('path/to/output/data.csv', [x_out, y_out])
 ```
 
 --
+
 Allows for manual or automatic periodic checks of the complicated bit:
-```
+
+```python
 assert computational_work(testdata, 1.0, 1.2, 1.9)[1].min() < 1e8
 assert computational_work(testdata, 10.0, 1.2, 1.9)[1].max() > 1.0
 ```
