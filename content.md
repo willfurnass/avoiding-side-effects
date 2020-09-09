@@ -105,8 +105,8 @@ def is_leap_year(year):
 ---
 ## Suggestions for those coding in Python (and other languages)
 
-Try to write the more computational parts of your code using pure functions, 
-limiting the use of side effects to specific places.
+* **Try to write the more computational parts of your code using pure functions,**
+* **limiting the use of side effects to specific places.**
 
 ---
 ## Caveats/limitations
