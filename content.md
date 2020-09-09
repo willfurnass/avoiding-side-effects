@@ -9,8 +9,8 @@ class: center, middle
 
 2020-09-09
 
-Will Furnass
-Research Software Engineer
+Will Furnass,
+Research Software Engineer,
 RSE team
 
 ---
