@@ -13,7 +13,6 @@ Will Furnass
 Research Software Engineer
 RSE team
 
-class: middle
 ---
 
 ## A linear workflow
